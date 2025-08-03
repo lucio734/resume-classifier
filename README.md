@@ -5,6 +5,7 @@ Este projeto é uma ferramenta em Python que lê e classifica currículos em PDF
 
 
 🚀 Funcionalidades
+
 Extração de texto: Lê arquivos PDF usando a biblioteca PyPDF2.
 
 Classificação inteligente: Filtra palavras-chave para determinar a área de atuação do candidato.
@@ -15,6 +16,7 @@ Código expansível: A estrutura foi pensada para ser simples de adaptar a model
 
 
 📂 Como Usar
+
 Clone o repositório:
 
 Bash
@@ -37,6 +39,7 @@ Veja a mágica acontecer: Digite o nome do arquivo PDF quando for solicitado par
 
 
 🧰 Tecnologias Usadas
+
 Python 3.x
 
 PyPDF2 para extração de texto
@@ -45,6 +48,7 @@ VS Code como editor de código
 
 
 Autor:
+
 Lúcio Vecchio
 luciovhc@gmail.com
 linkedin.com/in/lucio-vecchio
