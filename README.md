@@ -23,19 +23,25 @@ Bash
 
 git clone https://github.com/lucio734/resume-classifier.git
 cd resume-classifier
+
 Instale as dependências:
+
 
 Bash
 
 pip install PyPDF2
 Adicione os currículos: Coloque seus arquivos PDF na mesma pasta do projeto.
 
+
 Execute o script:
+
 
 Bash
 
 python main.py
-Veja a mágica acontecer: Digite o nome do arquivo PDF quando for solicitado para ver a classificação.
+
+
+Digite o nome do arquivo PDF quando for solicitado para ver a classificação.
 
 
 🧰 Tecnologias Usadas
