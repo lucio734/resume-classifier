@@ -55,5 +55,7 @@ VS Code como editor de código
 Autor:
 
 Lúcio Vecchio
+
 luciovhc@gmail.com
+
 linkedin.com/in/lucio-vecchio
