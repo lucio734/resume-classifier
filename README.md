@@ -11,7 +11,6 @@ Classificação inteligente: Filtra palavras-chave para determinar a área de at
 
 Saída clara: Apresenta os resultados de forma fácil de entender no terminal.
 
-Código expansível: A estrutura foi pensada para ser simples de adaptar a modelos de Machine Learning mais complexos no futuro.
 
 
 Como Usar
