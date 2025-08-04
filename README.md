@@ -1,10 +1,9 @@
-📄 Resume Classifier
 
 Analisador de Currículos em Python
 
 Este projeto é uma ferramenta em Python que lê e classifica currículos em PDF de forma automática. Ele identifica palavras-chave para categorizar cada perfil em áreas como Front-End, Back-End ou Data Science.
 
-🚀 Funcionalidades
+Funcionalidades
 
 Extração de texto: Lê arquivos PDF usando a biblioteca PyPDF2.
 
@@ -15,7 +14,7 @@ Saída clara: Apresenta os resultados de forma fácil de entender no terminal.
 Código expansível: A estrutura foi pensada para ser simples de adaptar a modelos de Machine Learning mais complexos no futuro.
 
 
-📂 Como Usar
+Como Usar
 
 Clone o repositório:
 
@@ -44,7 +43,7 @@ python main.py
 Digite o nome do arquivo PDF quando for solicitado para ver a classificação.
 
 
-🧰 Tecnologias Usadas
+Tecnologias Usadas
 
 Python 3.x
 
